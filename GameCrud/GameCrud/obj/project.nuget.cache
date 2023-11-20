@@ -1,15 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "0eTeZ94XjdLnTed3PBYdd/tLJn2UqsEyR4Fng7FgecEr+axXJ6KqQKB3gnbM1VjUVq+pq+vrTTIX8Lu3pt3GxQ==",
+  "dgSpecHash": "M+omzCDp5Li2q9QDo14ZX+48aAyWkqhkMKd/6NpFH7gnzxZeQRGrV1JELpZF0vwQi0hI4E8hM+t32DSuymMPwQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\LAWENCON\\Downloads\\Test Intv\\Mandiri Test\\game-crud-api\\GameCrud\\GameCrud\\GameCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LAWENCON\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\LAWENCON\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LAWENCON\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\LAWENCON\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\LAWENCON\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\LAWENCON\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\LAWENCON\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.app.projekan.xyz/repository/ahm-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

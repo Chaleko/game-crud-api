@@ -10,3 +10,4 @@ C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCr
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\refint\GameCrud.Contracts.dll
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.pdb
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\ref\GameCrud.Contracts.dll
+C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.sourcelink.json

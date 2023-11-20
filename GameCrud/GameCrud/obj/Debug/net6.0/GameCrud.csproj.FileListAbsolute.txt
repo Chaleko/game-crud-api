@@ -27,3 +27,10 @@ C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCr
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.pdb
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.genruntimeconfig.cache
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\ref\GameCrud.dll
+C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\libman.json
+C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.sourcelink.json
+C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets\msbuild.GameCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets\msbuild.build.GameCrud.props
+C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GameCrud.props
+C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GameCrud.props
+C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets.pack.json
