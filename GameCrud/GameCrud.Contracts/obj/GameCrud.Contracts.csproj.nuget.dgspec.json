@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LAWENCON\\Downloads\\Test Intv\\Mandiri Test\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj": {}
+    "C:\\Users\\charl\\source\\repos\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LAWENCON\\Downloads\\Test Intv\\Mandiri Test\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj": {
+    "C:\\Users\\charl\\source\\repos\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LAWENCON\\Downloads\\Test Intv\\Mandiri Test\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\charl\\source\\repos\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj",
         "projectName": "GameCrud.Contracts",
-        "projectPath": "C:\\Users\\LAWENCON\\Downloads\\Test Intv\\Mandiri Test\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj",
-        "packagesPath": "C:\\Users\\LAWENCON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LAWENCON\\Downloads\\Test Intv\\Mandiri Test\\game-crud-api\\GameCrud\\GameCrud.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\charl\\source\\repos\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj",
+        "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\charl\\source\\repos\\game-crud-api\\GameCrud\\GameCrud.Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LAWENCON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nexus.app.projekan.xyz/repository/ahm-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -62,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

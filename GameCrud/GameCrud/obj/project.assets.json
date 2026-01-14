@@ -332,19 +332,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LAWENCON\\.nuget\\packages\\": {}
+    "C:\\Users\\charl\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAWENCON\\Downloads\\Test Intv\\Mandiri Test\\game-crud-api\\GameCrud\\GameCrud\\GameCrud.csproj",
+      "projectUniqueName": "C:\\Users\\charl\\source\\repos\\game-crud-api\\GameCrud\\GameCrud\\GameCrud.csproj",
       "projectName": "GameCrud",
-      "projectPath": "C:\\Users\\LAWENCON\\Downloads\\Test Intv\\Mandiri Test\\game-crud-api\\GameCrud\\GameCrud\\GameCrud.csproj",
-      "packagesPath": "C:\\Users\\LAWENCON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAWENCON\\Downloads\\Test Intv\\Mandiri Test\\game-crud-api\\GameCrud\\GameCrud\\obj\\",
+      "projectPath": "C:\\Users\\charl\\source\\repos\\game-crud-api\\GameCrud\\GameCrud\\GameCrud.csproj",
+      "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\charl\\source\\repos\\game-crud-api\\GameCrud\\GameCrud\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\LAWENCON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -352,15 +357,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nexus.app.projekan.xyz/repository/ahm-hosted/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\LAWENCON\\Downloads\\Test Intv\\Mandiri Test\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj": {
-              "projectPath": "C:\\Users\\LAWENCON\\Downloads\\Test Intv\\Mandiri Test\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj"
+            "C:\\Users\\charl\\source\\repos\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj": {
+              "projectPath": "C:\\Users\\charl\\source\\repos\\game-crud-api\\GameCrud\\GameCrud.Contracts\\GameCrud.Contracts.csproj"
             }
           }
         }
@@ -369,7 +373,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net6.0": {
@@ -403,16 +413,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.app.projekan.xyz/repository/ahm-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  }
 }

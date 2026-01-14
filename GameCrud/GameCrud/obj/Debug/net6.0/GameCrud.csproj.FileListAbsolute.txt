@@ -34,3 +34,43 @@ C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCr
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GameCrud.props
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GameCrud.props
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\appsettings.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\libman.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\GameCrud.staticwebassets.endpoints.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\GameCrud.exe
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\GameCrud.deps.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\GameCrud.runtimeconfig.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\GameCrud.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\GameCrud.pdb
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\GameCrud.Contracts.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\bin\Debug\net6.0\GameCrud.Contracts.pdb
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.csproj.AssemblyReference.cache
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.AssemblyInfoInputs.cache
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.AssemblyInfo.cs
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.sourcelink.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\scopedcss\bundle\GameCrud.styles.css
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\swae.build.ex.cache
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.csproj.Up2Date
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\refint\GameCrud.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.pdb
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.genruntimeconfig.cache
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\ref\GameCrud.dll

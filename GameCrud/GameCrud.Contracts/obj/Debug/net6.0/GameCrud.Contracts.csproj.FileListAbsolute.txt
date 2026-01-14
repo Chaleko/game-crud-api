@@ -11,3 +11,16 @@ C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCr
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.pdb
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\ref\GameCrud.Contracts.dll
 C:\Users\LAWENCON\Downloads\Test Intv\Mandiri Test\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.sourcelink.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\bin\Debug\net6.0\GameCrud.Contracts.deps.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\bin\Debug\net6.0\GameCrud.Contracts.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\bin\Debug\net6.0\GameCrud.Contracts.pdb
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.csproj.AssemblyReference.cache
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.AssemblyInfoInputs.cache
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.AssemblyInfo.cs
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.sourcelink.json
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\refint\GameCrud.Contracts.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\GameCrud.Contracts.pdb
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud.Contracts\obj\Debug\net6.0\ref\GameCrud.Contracts.dll

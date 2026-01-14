@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d8bc3f02293f07b1921223a30d7ac12d3f18153")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
