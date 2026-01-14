@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>3b5e95f6-1a4a-4b31-b9a3-f9a398cab23b</UserSecretsId>
@@ -10,11 +10,12 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.5" />
+    <PackageReference Include="Scalar.AspNetCore" Version="2.12.7" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GameCrud.Contracts\GameCrud.Contracts.csproj" />
+    <ProjectReference Include="..\\GameCrud.Contracts\\GameCrud.Contracts.csproj" />
   </ItemGroup>
 
 </Project>

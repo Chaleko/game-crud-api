@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zeA+DOI5JD4=",
+  "dgSpecHash": "exmvdjv2Yyw=",
   "success": true,
   "projectFilePath": "C:\\Users\\charl\\source\\repos\\game-crud-api\\GameCrud\\GameCrud\\GameCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\charl\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\charl\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\charl\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\scalar.aspnetcore\\2.12.7\\scalar.aspnetcore.2.12.7.nupkg.sha512",
     "C:\\Users\\charl\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\charl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\charl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

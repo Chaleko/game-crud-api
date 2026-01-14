@@ -67,10 +67,10 @@ C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\sta
 C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets.build.endpoints.json
 C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\swae.build.ex.cache
-C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.csproj.Up2Date
 C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.dll
 C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\refint\GameCrud.dll
 C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.pdb
 C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\GameCrud.genruntimeconfig.cache
 C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\ref\GameCrud.dll
+C:\Users\charl\source\repos\game-crud-api\GameCrud\GameCrud\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt

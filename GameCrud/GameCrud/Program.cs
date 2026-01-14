@@ -1,4 +1,5 @@
 using GameCrud.Services.Game;
+//using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,8 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    //app.MapScalarApiReference();
+
     app.UseSwagger();
     app.UseSwaggerUI();
 }
